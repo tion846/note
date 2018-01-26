@@ -1,4 +1,4 @@
-### JS
+# JS
 
-### input checkbox取得checked value 使用prop()
-```$('#checkbox_id').prop('checked'); //type boolean```
+### input
+- 透過prop() 取得checkbox是否勾選 `$('#checkbox_id').prop('checked'); //type boolean`

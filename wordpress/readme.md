@@ -19,7 +19,7 @@ git rebase origin/dasha
 git push origin [branch]
 
 ###Html
-<body>
+`<body>
   <div id="capture" class="container">
   <span>bili</span>
     <img id="img" src="https://i.ytimg.com/vi/CYGbA72m3so/hqdefault.jpg?sqp=-oaymwEWCNIBEHZIWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCOegWHRhnNWe7TyqZ1Fe0fLgTPDA">
@@ -34,10 +34,10 @@ git push origin [branch]
   <div id="div">
 
   </div>
-</body>
+</body>`
 
 ###JS
-function(){
+`function(){
   var capture = $('#capture');
   var div = $('#div');
   var img = $('#img');
@@ -56,17 +56,17 @@ function(){
   });
 
   setTimeout("$('#can').attr('sytle',''); console.log('fa');",3000);
-}
+}`
 
 ###css
 #show{
-  margin-top: 50px;
+`margin-top: 50px;
 }
 
 #div
 {
   height:50vh;
-}
+}`
 
 
 ## 待解決
