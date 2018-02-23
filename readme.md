@@ -17,6 +17,7 @@
 ### youtube
 - [10:43 OP&ED](https://www.youtube.com/watch?v=z1Mm2dOx1Ks)
 - [Doctor Vox-Frontier](https://www.youtube.com/watch?v=ee1Z1QBm6YY)
+- [千坂 - When I saw you I fell in love](https://www.youtube.com/watch?v=rDNkRFvZPwY)
 
 ### 筆記本規範
 - (#) 領域別
