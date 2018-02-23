@@ -4,7 +4,7 @@
 - 強制斷句，用...取代多餘的
 
   ```
-  .text {
+  .span {
       white-space: nowrap;
       text-overflow: ellipsis;
       overflow: hidden;
