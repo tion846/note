@@ -8,7 +8,7 @@
 - date函數 `date(format,timestamp)`
 - mktime函數 `mktime(hour,minute,second,month,day,year)`
 - 格式
-```
+  ```php
   date("Y-m-d"); #2018-01-24
   date("Y/m/d"); #2018/01/24
   date("Y.m.d"); #2018.01.24
@@ -27,4 +27,4 @@
   #s:秒
   #a:am/pm
   date("h:i:sa");
-```
+  ```

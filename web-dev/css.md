@@ -3,7 +3,7 @@
 ### text
 - 強制斷句，用...取代多餘的
 
-  ```
+  ```css
   .span {
       white-space: nowrap;
       text-overflow: ellipsis;
@@ -13,7 +13,7 @@
 
 ### overflow: scroll
 - 自訂scroll css
-  ```
+  ```css
   .content {
     overflow-y: auto;
     height: calc(90vh - 233px);

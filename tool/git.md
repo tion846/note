@@ -34,6 +34,18 @@
 - clone:  `git clone https://github.com/[owner]/[project_name]`
 - fetch:  `git fetch -p origin`
 
+### git配置
+- 縮寫
+```
+git config --global alias.st status
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.br branch
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 ### vim編輯器操作
 step1. i -> insert 插入
 step2. pick -> squash
