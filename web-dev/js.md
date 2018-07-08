@@ -14,3 +14,14 @@
   num.toFixed(n)
   1.56.toFixed(1) //1.6
   ```
+
+### console
+- 執行時間
+  ```js
+  console.time('for');
+  for (i = 0; i < 5; i++)
+  {
+    //todo
+  }
+  console.timeEnd('for');
+  ```

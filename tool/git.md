@@ -22,9 +22,9 @@
 - 建立commit:  `git commit -m [commit_name]`
 - 退回到上個commit:  `git reset --hard HEAD^`
 - 合併commit
-先建立一個暫時的commit `git commit -m [temp_name]`
-當前的commit與上一個commit做rebase的動作 進入vim模式 `git rebase -i HEAD~2`
-修改commit名稱 進入vim模式 `git commit --amend`
+  - 先建立一個暫時的commit `git commit -m [temp_name]`
+  - 當前的commit與上一個commit做rebase的動作 進入vim模式 `git rebase -i HEAD~2`
+  - 修改commit名稱 進入vim模式 `git commit --amend`
 
 ### remote
 - 與遠端連接:  ` git remote add origin https://github.com/[tion846]/[project_name] `  
@@ -47,8 +47,8 @@ git config --global user.name "Your Name"
 ```
 
 ### vim編輯器操作
-step1. i -> insert 插入
-step2. pick -> squash
-step3. # -> 註解  註解掉暫時的commit
-step4. esc
-step5. :wq! ->w寫入 q離開 !強制
+- step1. i -> insert 插入
+- step2. pick -> squash
+- step3. # -> 註解  註解掉暫時的commit
+- step4. esc
+- step5. :wq! ->w寫入 q離開 !強制
