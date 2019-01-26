@@ -9,22 +9,22 @@
 - mktime函數 `mktime(hour,minute,second,month,day,year)`
 - 格式
   ```php
-  date("Y-m-d"); #2018-01-24
-  date("Y/m/d"); #2018/01/24
-  date("Y.m.d"); #2018.01.24
+    date("Y-m-d"); #2018-01-24
+    date("Y/m/d"); #2018/01/24
+    date("Y.m.d"); #2018.01.24
 
-  #Y:年
-  #m:月
-  #d:日
-  #l:星期
-  date("Y"); #2018
-  date("m"); #01
-  date("d"); #24
-  date("l"); #Wednesday
+    #Y:年
+    #m:月
+    #d:日
+    #l:星期
+    date("Y"); #2018
+    date("m"); #01
+    date("d"); #24
+    date("l"); #Wednesday
 
-  #h:時(12小時制)
-  #i:分
-  #s:秒
-  #a:am/pm
-  date("h:i:sa");
+    #h:時(12小時制)
+    #i:分
+    #s:秒
+    #a:am/pm
+    date("h:i:sa");
   ```

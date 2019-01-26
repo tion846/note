@@ -47,8 +47,8 @@ git config --global user.name "Your Name"
 ```
 
 ### vim編輯器操作
-- step1. i -> insert 插入
-- step2. pick -> squash
-- step3. # -> 註解  註解掉暫時的commit
-- step4. esc
-- step5. :wq! ->w寫入 q離開 !強制
+step1. i -> insert 插入  
+step2. pick -> squash  
+step3. # -> 註解  註解掉暫時的commit  
+step4. esc  
+step5. :wq! ->w寫入 q離開 !強制  
